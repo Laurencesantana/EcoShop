@@ -25,3 +25,8 @@ Projeto de e-commerce desenvolvido em equipe utilizando HTML5, CSS3 e JavaScript
 ## Sobre o projeto
 
 Projeto desenvolvido em equipe como trabalho acadêmico.
+
+## 🔗 Demonstração
+
+Acesse o projeto:
+[EcoShop](https://laurencesantana.github.io/EcoShop/)
